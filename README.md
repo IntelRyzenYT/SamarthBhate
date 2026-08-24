@@ -5,8 +5,8 @@
 1. 🟠 Swift 🍎  
 2. ☕ Java  
 3. ⚙️ C++  
-4. 🐍 Python  
-5. 🌐 JS / TS  
+4. 🔩 Rust
+5. 🐍 Python
 
 ---
 
@@ -20,6 +20,4 @@
 ## 📚 What I'm Learning:
 
 - 🎮 Geode (Geometry Dash) Modding  
-- ⚙️ C++  
-- 🌐 JS / TS  
-- 📱 React Native  
+- ⚙️ C++   
